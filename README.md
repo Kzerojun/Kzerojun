@@ -1,5 +1,3 @@
-## 안녕하세요, 김영준입니다!
-
 ## 다른 사람 코드 구경하다가 밤 새는 백엔드 개발자입니다. 🌙
 다른 개발자의 코드에서 배우는 걸 좋아하는 백엔드 개발자입니다.  
 코드 리뷰를 통해 함께 성장하는 것을 즐깁니다.  
@@ -11,3 +9,4 @@
 
 ## 📝 개발 블로그
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://gahacman.tistory.com/)
+
